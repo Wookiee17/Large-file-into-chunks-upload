@@ -1,5 +1,5 @@
 {
-  "name": "chunk-uploading-devextreme-file-uploader-forked",
+  "name": "Chunk Uploading - DevExtreme File Uploader",
   "description": "This demo shows how to upload files in chunks. The chunkSize property specifies their size (in this case, 0.2MB). You should ensure the server can process chunks. See an example of the server implementation under the FileUploaderController tab in the ASP.NET MVC version of this demo.\n",
   "dependencies": {
     "rrule": "2.6.6",
@@ -23,27 +23,5 @@
     "devexpress-gantt": "3.0.14",
     "devexpress-diagram": "2.1.32",
     "@devextreme/vdom": "1.2.2"
-  },
-  "version": "0.0.1",
-  "devDependencies": {
-    "react-scripts": "1.0.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
